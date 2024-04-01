@@ -26,6 +26,7 @@ Nexus min requirements
 
 /etc/init.d --->> app --->> service
 
+
 4. cd /opt
 
 after installation
